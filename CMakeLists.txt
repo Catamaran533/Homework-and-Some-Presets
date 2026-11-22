@@ -4,4 +4,5 @@ project(ForGithub)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(ForGithub main.cpp
-        Trie.h)
+        Trie.h
+        Trie.cpp)
